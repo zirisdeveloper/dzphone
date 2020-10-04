@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/constants.dart';
-import 'package:shop_app/models/Product.dart';
-import 'package:shop_app/screens/details/details_screen.dart';
+import 'package:dzphone/constants.dart';
+import 'package:dzphone/models/Product.dart';
+import 'package:dzphone/screens/details/details_screen.dart';
 
 import 'categorries.dart';
 import 'item_card.dart';
